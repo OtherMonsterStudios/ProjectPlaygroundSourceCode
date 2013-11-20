@@ -1,6 +1,6 @@
 ﻿var currentHealth = 100;
 var maxHealth = 100.00;
-
+//can you see this?
 var healthBarLength = 0.0;
 
 function Start () 
